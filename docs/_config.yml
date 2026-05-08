@@ -2,3 +2,7 @@ title: Hondius Hantavirus Event Tracker
 description: Public event timeline and daily reports generated from an LLM-managed wiki.
 theme: minima
 markdown: kramdown
+header_pages:
+  - timeline.md
+  - reports/index.md
+  - sources/index.md
