@@ -5,13 +5,13 @@ layout: default
 
 # Andes Hantavirus outbreak in cruise ship, May 2026
 
-| Field | Value |
-| --- | --- |
-| Publisher | European Centre for Disease Prevention and Control |
-| Original URL | https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak |
-| Publication date | 2026-05-07T17:56:17+0200 |
-| Capture date | 2026-05-08 |
-| Source type | ECDC |
+## Source Metadata
+
+- **Publisher:** European Centre for Disease Prevention and Control
+- **Original URL:** [Open original source](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak)
+- **Publication date:** 2026-05-07T17:56:17+0200
+- **Capture date:** 2026-05-08
+- **Source type:** ECDC
 
 ## Summary
 

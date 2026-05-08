@@ -5,13 +5,13 @@ layout: default
 
 # Hantavirus outbreak on cruise ship under investigation: risk for Europe very low
 
-| Field | Value |
-| --- | --- |
-| Publisher | European Centre for Disease Prevention and Control |
-| Original URL | https://www.ecdc.europa.eu/en/news-events/hantavirus-outbreak-cruise-ship-under-investigation-risk-europe-very-low |
-| Publication date | 2026-05-05T15:17:56+0200 |
-| Capture date | 2026-05-08 |
-| Source type | ECDC |
+## Source Metadata
+
+- **Publisher:** European Centre for Disease Prevention and Control
+- **Original URL:** [Open original source](https://www.ecdc.europa.eu/en/news-events/hantavirus-outbreak-cruise-ship-under-investigation-risk-europe-very-low)
+- **Publication date:** 2026-05-05T15:17:56+0200
+- **Capture date:** 2026-05-08
+- **Source type:** ECDC
 
 ## Summary
 

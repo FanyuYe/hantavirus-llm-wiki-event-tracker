@@ -5,13 +5,13 @@ layout: default
 
 # Cruise ship hantavirus outbreak: ECDC response activated
 
-| Field | Value |
-| --- | --- |
-| Publisher | European Centre for Disease Prevention and Control |
-| Original URL | https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated |
-| Publication date | 2026-05-06T18:39:13+0200 |
-| Capture date | 2026-05-08 |
-| Source type | ECDC |
+## Source Metadata
+
+- **Publisher:** European Centre for Disease Prevention and Control
+- **Original URL:** [Open original source](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated)
+- **Publication date:** 2026-05-06T18:39:13+0200
+- **Capture date:** 2026-05-08
+- **Source type:** ECDC
 
 ## Summary
 

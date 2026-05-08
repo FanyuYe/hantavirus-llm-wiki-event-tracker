@@ -5,13 +5,13 @@ layout: default
 
 # Hantavirus-associated cluster of illness on a cruise ship: ECDC assessment and recommendations
 
-| Field | Value |
-| --- | --- |
-| Publisher | European Centre for Disease Prevention and Control |
-| Original URL | https://www.ecdc.europa.eu/en/publications-data/hantavirus-associated-cluster-illness-cruise-ship-ecdc-assessment-and |
-| Publication date | 2026-05-06T18:39:17+0200 |
-| Capture date | 2026-05-08 |
-| Source type | ECDC |
+## Source Metadata
+
+- **Publisher:** European Centre for Disease Prevention and Control
+- **Original URL:** [Open original source](https://www.ecdc.europa.eu/en/publications-data/hantavirus-associated-cluster-illness-cruise-ship-ecdc-assessment-and)
+- **Publication date:** 2026-05-06T18:39:17+0200
+- **Capture date:** 2026-05-08
+- **Source type:** ECDC
 
 ## Summary
 

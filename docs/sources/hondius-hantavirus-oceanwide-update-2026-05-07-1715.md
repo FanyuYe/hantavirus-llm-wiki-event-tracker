@@ -5,13 +5,13 @@ layout: default
 
 # Press update | m/v Hondius: 7 May 2026, 17:15 hrs CET
 
-| Field | Value |
-| --- | --- |
-| Publisher | Oceanwide Expeditions |
-| Original URL | https://oceanwide-expeditions.com/press/press-update-m-v-hondius-7-may-2026-17-15-hrs-cet |
-| Publication date | 2026-05-07 |
-| Capture date | 2026-05-08 |
-| Source type | operator |
+## Source Metadata
+
+- **Publisher:** Oceanwide Expeditions
+- **Original URL:** [Open original source](https://oceanwide-expeditions.com/press/press-update-m-v-hondius-7-may-2026-17-15-hrs-cet)
+- **Publication date:** 2026-05-07
+- **Capture date:** 2026-05-08
+- **Source type:** operator
 
 ## Summary
 

@@ -5,13 +5,13 @@ layout: default
 
 # El Gobierno se reúne con los países implicados y con el Gobierno de Canarias para coordinar la situación del buque MV Hondius
 
-| Field | Value |
-| --- | --- |
-| Publisher | Government of Spain / La Moncloa |
-| Original URL | https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/politica-territorial-memoria-democratica/paginas/2026/070526-reuniones-hantavirus-canarias.aspx |
-| Publication date | 2026-05-07 |
-| Capture date | 2026-05-08 |
-| Source type | government |
+## Source Metadata
+
+- **Publisher:** Government of Spain / La Moncloa
+- **Original URL:** [Open original source](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/politica-territorial-memoria-democratica/paginas/2026/070526-reuniones-hantavirus-canarias.aspx)
+- **Publication date:** 2026-05-07
+- **Capture date:** 2026-05-08
+- **Source type:** government
 
 ## Summary
 

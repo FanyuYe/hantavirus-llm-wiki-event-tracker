@@ -5,13 +5,13 @@ layout: default
 
 # Press update | m/v Hondius: 4 May 2026, 23:30 CET
 
-| Field | Value |
-| --- | --- |
-| Publisher | Oceanwide Expeditions |
-| Original URL | https://oceanwide-expeditions.com/press/press-update-updated-timeline-of-the-medical-situation-on-board-m-v-hondius |
-| Publication date | 2026-05-04 |
-| Capture date | 2026-05-08 |
-| Source type | operator |
+## Source Metadata
+
+- **Publisher:** Oceanwide Expeditions
+- **Original URL:** [Open original source](https://oceanwide-expeditions.com/press/press-update-updated-timeline-of-the-medical-situation-on-board-m-v-hondius)
+- **Publication date:** 2026-05-04
+- **Capture date:** 2026-05-08
+- **Source type:** operator
 
 ## Summary
 

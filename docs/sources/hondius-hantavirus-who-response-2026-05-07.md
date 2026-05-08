@@ -5,13 +5,13 @@ layout: default
 
 # WHO’s response to hantavirus cases linked to a cruise ship
 
-| Field | Value |
-| --- | --- |
-| Publisher | World Health Organization |
-| Original URL | https://www.who.int/philippines/news/detail-global/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship |
-| Publication date | 2026-05-07 |
-| Capture date | 2026-05-08 |
-| Source type | WHO |
+## Source Metadata
+
+- **Publisher:** World Health Organization
+- **Original URL:** [Open original source](https://www.who.int/philippines/news/detail-global/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship)
+- **Publication date:** 2026-05-07
+- **Capture date:** 2026-05-08
+- **Source type:** WHO
 
 ## Summary
 

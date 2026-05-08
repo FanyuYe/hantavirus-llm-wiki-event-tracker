@@ -5,13 +5,13 @@ layout: default
 
 # Hantavirus cluster linked to cruise ship travel, Multi-country
 
-| Field | Value |
-| --- | --- |
-| Publisher | World Health Organization |
-| Original URL | https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599 |
-| Publication date | Thu, 07 May 2026 17:41:14 GMT |
-| Capture date | 2026-05-08 |
-| Source type | WHO |
+## Source Metadata
+
+- **Publisher:** World Health Organization
+- **Original URL:** [Open original source](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599)
+- **Publication date:** Thu, 07 May 2026 17:41:14 GMT
+- **Capture date:** 2026-05-08
+- **Source type:** WHO
 
 ## Summary
 
