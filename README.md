@@ -15,19 +15,17 @@ docs/
   sources/
     source-slug.md
   _config.yml
-scripts/
-  sync-from-private-wiki.py
 ```
 
 ## Sync Workflow
 
-Run the local sync script after the private wiki has been updated:
+Run the local-only sync script after the private wiki has been updated:
 
 ```bash
 python3 scripts/sync-from-private-wiki.py
 ```
 
-The script reads only the configured Hondius event timeline, configured daily report files, and cited `raw/events/` files from the private wiki. It does not traverse or mirror unrelated private-wiki content.
+The sync script is intentionally not published in this public repository. It reads only the configured Hondius event timeline, configured daily report files, and cited `raw/events/` files from the private wiki. It does not traverse or mirror unrelated private-wiki content.
 
 Expected maintenance chain:
 
