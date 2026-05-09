@@ -7,14 +7,18 @@ layout: default
 
 ## Current Snapshot
 
-As of the latest verified source review captured on 2026-05-09, the outbreak is linked to the Dutch-flagged expedition vessel _m/v Hondius_ after a South Atlantic itinerary that departed Ushuaia, Argentina, on 2026-04-01. WHO's 2026-05-07 media note remains the latest official case-count baseline found in this run: 8 total cases, including 5 laboratory-confirmed hantavirus cases and 3 deaths. WHO identifies the virus as Andes virus, the hantavirus species known to be capable of limited person-to-person transmission after close and prolonged contact. WHO continues to assess the public-health risk as low while warning that more cases could be reported because of the incubation period. [WHO response](sources/hondius-hantavirus-who-response-2026-05-07.md)
+As of the latest verified source review captured on 2026-05-10 AEST, the outbreak is linked to the Dutch-flagged expedition vessel _m/v Hondius_ after a South Atlantic itinerary that departed Ushuaia, Argentina, on 2026-04-01. The newest captured official case-count statement is UKHSA's 2026-05-09 update, which says WHO confirmed late on 2026-05-08 that there were 8 cases: 6 confirmed and 2 suspected, after 1 suspected case was discounted. Three deaths remain reported. WHO/Europe's public 2026-05-08 page still carries the older 8-case/5-confirmed baseline, and ECDC's dashboard remains more conservative at 7 cases and 3 deaths, so the count should be treated as still reconciling across public sources. [UKHSA 2026-05-09](sources/hondius-hantavirus-ukhsa-update-2026-05-09.md) [WHO/Europe 2026-05-08](sources/hondius-hantavirus-who-europe-response-2026-05-08.md) [ECDC dashboard 2026-05-08](sources/hondius-hantavirus-ecdc-dashboard-2026-05-08.md)
 
-The core unresolved question is how exposure occurred: environmental exposure during South America or remote-island travel remains possible, and limited person-to-person transmission is being considered because Andes virus is involved. The operational focus has shifted toward controlled Tenerife reception/repatriation and multi-country monitoring of passengers, crew, flight contacts, and people who disembarked before the outbreak was confirmed. [WHO DON](sources/hondius-hantavirus-who-don599-2026-05-07.md) [ECDC assessment](sources/hondius-hantavirus-ecdc-assessment-2026-05-06.md) [UKHSA](sources/hondius-hantavirus-ukhsa-update-2026-05-06-captured-2026-05-09.md) [Singapore CDA](sources/hondius-hantavirus-singapore-cda-2026-05-07.md)
+The core unresolved question is how exposure occurred: environmental exposure during South America or remote-island travel remains possible, and limited person-to-person transmission is being considered because Andes virus is involved. The operational focus has shifted to Tenerife reception/repatriation and multi-country monitoring: UK passengers and crew are being routed to Arrowe Park Hospital, American passengers to Offutt Air Force Base and the University of Nebraska National Quarantine Center, and other countries are arranging staged repatriation from Tenerife. [WHO DON](sources/hondius-hantavirus-who-don599-2026-05-07.md) [ECDC assessment](sources/hondius-hantavirus-ecdc-assessment-2026-05-06.md) [UKHSA 2026-05-09](sources/hondius-hantavirus-ukhsa-update-2026-05-09.md) [CDC](sources/hondius-hantavirus-cdc-update-2026-05-08.md) [Le Monde](sources/hondius-hantavirus-lemonde-tenerife-operation-2026-05-09.md)
 
 ## Event Timeline (Latest First)
 
 | Date                     | Development                                                                                                                                                                                                                                                                                                                                                                                             | Source                                                                                                                                                          |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026-05-09               | UKHSA reported a newer case-count reconciliation attributed to WHO: 8 cases, 6 confirmed and 2 suspected, after 1 suspected case was discounted. UKHSA said 3 British nationals were included: 2 confirmed cases in hospital in South Africa and the Netherlands, and 1 suspected case on Tristan da Cunha. UKHSA planned return to Arrowe Park Hospital with assessment/testing and isolation up to 45 days. | [UKHSA 2026-05-09](sources/hondius-hantavirus-ukhsa-update-2026-05-09.md)                                                                                 |
+| 2026-05-09               | Secondary reporting from Tenerife described the immediate reception plan: MV Hondius expected near Granadilla early 2026-05-10, staged transfer by Zodiac boats only when repatriation aircraft were ready, direct transport to Tenerife South Airport, and a Sunday-Monday weather window before sea conditions could interrupt transfers.                                                                       | [Le Monde](sources/hondius-hantavirus-lemonde-tenerife-operation-2026-05-09.md), [Guardian UK return plan](sources/hondius-hantavirus-guardian-uk-return-plan-2026-05-09.md) |
+| 2026-05-08               | CDC published the U.S. response plan: American passengers were to be medically repatriated to Offutt Air Force Base near Omaha, transferred to the National Quarantine Center at the University of Nebraska, and assessed by CDC teams deployed to the Canary Islands and Offutt. CDC assessed risk to the American public as extremely low.                                                                      | [CDC](sources/hondius-hantavirus-cdc-update-2026-05-08.md)                                                                                                |
+| 2026-05-08               | WHO/Europe republished the WHO media release with the 8-case, 5-confirmed, 3-death baseline and low public-health-risk assessment, while warning that additional cases could still appear during the incubation period.                                                                                                                     | [WHO/Europe 2026-05-08](sources/hondius-hantavirus-who-europe-response-2026-05-08.md)                                                                     |
 | 2026-05-08               | Credible same-day reporting cited Canary Islands and Spanish officials saying MV Hondius would remain at anchor near Granadilla rather than dock, with onboard evaluation and transfer/repatriation designed to avoid contact with the local population. The operation reportedly faced a narrow weather window around 2026-05-10.                                                                       | [Guardian Tenerife](sources/hondius-hantavirus-guardian-tenerife-operation-2026-05-08.md)                                                                 |
 | 2026-05-08               | Credible same-day reporting cited UKHSA saying a third British national was a suspected hantavirus case on Tristan da Cunha, while two British cases were already confirmed in hospitals in the Netherlands and South Africa. UK repatriation plans included a dedicated infection-control flight and 45 days of isolation/monitoring after return.                                                   | [Guardian UK](sources/hondius-hantavirus-guardian-third-briton-2026-05-08.md)                                                                             |
 | 2026-05-08               | ECDC's event page metadata showed an update, but its public dashboard still listed 7 cases and 3 deaths with EU/EEA general-population risk assessed as very low, preserving the visible discrepancy with WHO's 8-case/5-confirmed count.                                                                                                                        | [ECDC dashboard 2026-05-08](sources/hondius-hantavirus-ecdc-dashboard-2026-05-08.md)                                                                      |
@@ -48,8 +52,8 @@ The main control strategy visible in the official record is coordinated case car
 ## Open Questions
 
 - Exact exposure source: environmental rodent exposure before boarding, during excursions, aboard ship, or limited person-to-person transmission remains under investigation.
-- Final reconciled case count: WHO's 2026-05-07 update is the latest case-count source captured here, but ECDC's public dashboard still frames the count differently and same-day media reports add suspected-case details.
-- Tenerife execution: whether MV Hondius arrives around 2026-05-10 and whether the weather-constrained evacuation/repatriation plan is completed.
+- Final reconciled case count: UKHSA's 2026-05-09 statement updates the count to 8 cases, 6 confirmed and 2 suspected, but WHO/Europe and ECDC public pages captured here still show older/different counts.
+- Tenerife execution: whether MV Hondius actually arrived around 2026-05-10 and whether the weather-constrained evacuation/repatriation plan was completed.
 - Passenger and crew follow-up outcomes: repatriation, quarantine, testing, and any later cases after the Canary Islands arrival need daily monitoring.
 - Clinical outcomes: latest official sources do not yet resolve the outcomes of the ICU patient in South Africa, the Switzerland case, or the three medically transferred people.
 
@@ -57,6 +61,7 @@ The main control strategy visible in the official record is coordinated case car
 
 - [Daily report 2026-05-08](reports/2026-05-08.md)
 - [Daily report 2026-05-09](reports/2026-05-09.md)
+- [Daily report 2026-05-10](reports/2026-05-10.md)
 
 ## Public Provenance
 
@@ -66,6 +71,7 @@ Source cards used by this page:
 
 - [hondius-hantavirus-who-don599-2026-05-07](sources/hondius-hantavirus-who-don599-2026-05-07.md)
 - [hondius-hantavirus-who-response-2026-05-07](sources/hondius-hantavirus-who-response-2026-05-07.md)
+- [hondius-hantavirus-who-europe-response-2026-05-08](sources/hondius-hantavirus-who-europe-response-2026-05-08.md)
 - [hondius-hantavirus-ecdc-assessment-2026-05-06](sources/hondius-hantavirus-ecdc-assessment-2026-05-06.md)
 - [hondius-hantavirus-ecdc-dashboard-2026-05-07](sources/hondius-hantavirus-ecdc-dashboard-2026-05-07.md)
 - [hondius-hantavirus-ecdc-dashboard-2026-05-08](sources/hondius-hantavirus-ecdc-dashboard-2026-05-08.md)
@@ -76,9 +82,13 @@ Source cards used by this page:
 - [hondius-hantavirus-oceanwide-update-2026-05-07-1715](sources/hondius-hantavirus-oceanwide-update-2026-05-07-1715.md)
 - [hondius-hantavirus-spain-lamoncloa-2026-05-07](sources/hondius-hantavirus-spain-lamoncloa-2026-05-07.md)
 - [hondius-hantavirus-ukhsa-update-2026-05-06-captured-2026-05-09](sources/hondius-hantavirus-ukhsa-update-2026-05-06-captured-2026-05-09.md)
+- [hondius-hantavirus-ukhsa-update-2026-05-09](sources/hondius-hantavirus-ukhsa-update-2026-05-09.md)
+- [hondius-hantavirus-cdc-update-2026-05-08](sources/hondius-hantavirus-cdc-update-2026-05-08.md)
 - [hondius-hantavirus-singapore-cda-2026-05-07](sources/hondius-hantavirus-singapore-cda-2026-05-07.md)
 - [hondius-hantavirus-st-helena-update-2026-05-07](sources/hondius-hantavirus-st-helena-update-2026-05-07.md)
 - [hondius-hantavirus-guardian-third-briton-2026-05-08](sources/hondius-hantavirus-guardian-third-briton-2026-05-08.md)
 - [hondius-hantavirus-guardian-tenerife-operation-2026-05-08](sources/hondius-hantavirus-guardian-tenerife-operation-2026-05-08.md)
+- [hondius-hantavirus-guardian-uk-return-plan-2026-05-09](sources/hondius-hantavirus-guardian-uk-return-plan-2026-05-09.md)
+- [hondius-hantavirus-lemonde-tenerife-operation-2026-05-09](sources/hondius-hantavirus-lemonde-tenerife-operation-2026-05-09.md)
 
-Last synced: 2026-05-09T08:35:41+10:00
+Last synced: 2026-05-10T08:32:21+10:00

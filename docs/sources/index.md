@@ -43,6 +43,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** government
 - **Original:** [Open original source](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/politica-territorial-memoria-democratica/paginas/2026/070526-reuniones-hantavirus-canarias.aspx)
 
+## [Spanish island braces for arrival of Hantavirus cruise ship](hondius-hantavirus-lemonde-tenerife-operation-2026-05-09.md)
+
+- **Publisher:** Le Monde
+- **Type:** media
+- **Original:** [Open original source](https://www.lemonde.fr/en/international/article/2026/05/09/spanish-island-braces-for-arrival-of-hantavirus-cruise-ship_6753289_4.html)
+
 ## [Press update | m/v Hondius: 4 May 2026, 23:30 CET](hondius-hantavirus-oceanwide-timeline-2026-05-04.md)
 
 - **Publisher:** Oceanwide Expeditions
@@ -85,7 +91,25 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** media
 - **Original:** [Open original source](https://www.theguardian.com/world/2026/may/08/third-briton-suspected-hantavirus-cruise-ship-outbreak)
 
+## [UK passengers on hantavirus-hit ship will fly home after Tenerife screening](hondius-hantavirus-guardian-uk-return-plan-2026-05-09.md)
+
+- **Publisher:** The Guardian
+- **Type:** media
+- **Original:** [Open original source](https://www.theguardian.com/world/2026/may/09/hantavirus-ship-hondius-tenerife)
+
+## [CDC provides update on hantavirus outbreak linked to M/V Hondius cruise ship](hondius-hantavirus-cdc-update-2026-05-08.md)
+
+- **Publisher:** U.S. Centers for Disease Control and Prevention
+- **Type:** government
+- **Original:** [Open original source](https://www.cdc.gov/media/releases/2026/2026-cdc-provides-update-on-hantavirus-outbreak-linked-to-m-v-hondius-cruise-ship.html)
+
 ## [UKHSA update on the hantavirus cruise ship outbreak](hondius-hantavirus-ukhsa-update-2026-05-06-captured-2026-05-09.md)
+
+- **Publisher:** UK Health Security Agency / GOV.UK
+- **Type:** government
+- **Original:** [Open original source](https://www.gov.uk/government/news/ukhsa-update-on-the-hantavirus-cruise-ship-outbreak)
+
+## [UKHSA update on the hantavirus cruise ship outbreak](hondius-hantavirus-ukhsa-update-2026-05-09.md)
 
 - **Publisher:** UK Health Security Agency / GOV.UK
 - **Type:** government
@@ -97,10 +121,16 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** WHO
 - **Original:** [Open original source](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599)
 
+## [WHO's response to hantavirus cases linked to a cruise ship](hondius-hantavirus-who-europe-response-2026-05-08.md)
+
+- **Publisher:** World Health Organization
+- **Type:** WHO
+- **Original:** [Open original source](https://www.who.int/europe/news/item/08-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship)
+
 ## [WHO’s response to hantavirus cases linked to a cruise ship](hondius-hantavirus-who-response-2026-05-07.md)
 
 - **Publisher:** World Health Organization
 - **Type:** WHO
 - **Original:** [Open original source](https://www.who.int/philippines/news/detail-global/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship)
 
-Last synced: 2026-05-09T08:35:41+10:00
+Last synced: 2026-05-10T08:32:21+10:00
