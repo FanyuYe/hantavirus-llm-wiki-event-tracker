@@ -49,6 +49,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** media
 - **Original:** [Open original source](https://www.lemonde.fr/en/international/article/2026/05/09/spanish-island-braces-for-arrival-of-hantavirus-cruise-ship_6753289_4.html)
 
+## [Oceanwide Expeditions press update - m/v Hondius 2026-05-09 23:00 CET](hondius-hantavirus-oceanwide-update-2026-05-09-2300.md)
+
+- **Publisher:** Oceanwide Expeditions
+- **Type:** operator
+- **Original:** [Open original source](https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-9-may-2026-23-00-hrs-cet)
+
 ## [Press update | m/v Hondius: 4 May 2026, 23:30 CET](hondius-hantavirus-oceanwide-timeline-2026-05-04.md)
 
 - **Publisher:** Oceanwide Expeditions
@@ -73,6 +79,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** government
 - **Original:** [Open original source](https://www.cda.gov.sg/news-and-events/public-health-measures-activated-for-two-singapore-residents-onboard-mv-hondius/)
 
+## [Spain Ministry of Health RSS notes - Hondius quarantine and surveillance](hondius-hantavirus-spain-sanidad-rss-2026-05-10.md)
+
+- **Publisher:** Spain Ministry of Health
+- **Type:** government
+- **Original:** [Open original source](https://www.sanidad.gob.es/rss/cargar.do)
+
 ## [Update on the hantavirus linked to the MV Hondius - 7 May 2026](hondius-hantavirus-st-helena-update-2026-05-07.md)
 
 - **Publisher:** St Helena Government
@@ -84,6 +96,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Publisher:** The Guardian
 - **Type:** media
 - **Original:** [Open original source](https://www.theguardian.com/world/2026/may/08/spanish-authorities-prepare-arrival-hantavirus-cruise-ship-hondius)
+
+## [Guardian report - Hondius evacuation from Tenerife](hondius-hantavirus-guardian-evacuation-2026-05-10.md)
+
+- **Publisher:** The Guardian
+- **Type:** media
+- **Original:** [Open original source](https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius)
 
 ## [Third Briton has suspected hantavirus linked to cruise ship outbreak](hondius-hantavirus-guardian-third-briton-2026-05-08.md)
 
@@ -121,6 +139,18 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** WHO
 - **Original:** [Open original source](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599)
 
+## [WHO Director-General message to Tenerife on Hondius response](hondius-hantavirus-who-dg-tenerife-message-2026-05-09.md)
+
+- **Publisher:** World Health Organization
+- **Type:** WHO
+- **Original:** [Open original source](https://www.who.int/news/item/09-05-2026-message-by-the-who-director-general-to-the-people-of-tenerife-regarding-the-hantavirus-response)
+
+## [WHO Disease Outbreak News DON600 - Hondius hantavirus cluster](hondius-hantavirus-who-don600-2026-05-08.md)
+
+- **Publisher:** World Health Organization
+- **Type:** WHO
+- **Original:** [Open original source](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600)
+
 ## [WHO's response to hantavirus cases linked to a cruise ship](hondius-hantavirus-who-europe-response-2026-05-08.md)
 
 - **Publisher:** World Health Organization
@@ -133,4 +163,10 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** WHO
 - **Original:** [Open original source](https://www.who.int/philippines/news/detail-global/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship)
 
-Last synced: 2026-05-10T08:32:21+10:00
+## [elDiario.es live report - Hondius arrival and Spain operations 2026-05-10](hondius-hantavirus-eldiario-live-2026-05-10.md)
+
+- **Publisher:** elDiario.es
+- **Type:** media
+- **Original:** [Open original source](https://www.eldiario.es/sociedad/ultima-hora-brote-hantavirus-crucero-mv-hondius-directo_6_13208908.html)
+
+Last synced: 2026-05-11T08:32:47+10:00
