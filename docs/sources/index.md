@@ -7,6 +7,12 @@ layout: default
 
 These are public source cards for the Hondius hantavirus event tracker. They are citation aids, not full raw captures.
 
+## [El Pais - Initial sequencing of MV Hondius Andes virus sample](hondius-hantavirus-elpais-genetic-sequencing-2026-05-11.md)
+
+- **Publisher:** El Pais
+- **Type:** media
+- **Original:** [Open original source](https://elpais.com/ciencia/2026-05-11/un-primer-analisis-genetico-del-hantavirus-del-crucero-confirma-que-es-de-la-variante-andes-y-descarta-mutaciones.html)
+
 ## [Andes Hantavirus outbreak in cruise ship, May 2026](hondius-hantavirus-ecdc-dashboard-2026-05-07.md)
 
 - **Publisher:** European Centre for Disease Prevention and Control
@@ -36,6 +42,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Publisher:** European Centre for Disease Prevention and Control
 - **Type:** ECDC
 - **Original:** [Open original source](https://www.ecdc.europa.eu/en/publications-data/hantavirus-associated-cluster-illness-cruise-ship-ecdc-assessment-and)
+
+## [Spain media reports - provisional positive among Gomez Ulla quarantine group](hondius-hantavirus-spain-provisional-positive-2026-05-11.md)
+
+- **Publisher:** G24
+- **Type:** media
+- **Original:** [Open original source](https://www.g24.gal/-/un-pasaxeiro-espanol-illado-no-gomez-ulla-da-positivo-provisional-en-hantavirus)
 
 ## [El Gobierno se reúne con los países implicados y con el Gobierno de Canarias para coordinar la situación del buque MV Hondius](hondius-hantavirus-spain-lamoncloa-2026-05-07.md)
 
@@ -73,6 +85,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** operator
 - **Original:** [Open original source](https://oceanwide-expeditions.com/press/press-update-m-v-hondius-7-may-2026-17-15-hrs-cet)
 
+## [Reuters via The Star - French passenger tests positive after MV Hondius repatriation](hondius-hantavirus-france-positive-reuters-2026-05-11.md)
+
+- **Publisher:** Reuters via The Star
+- **Type:** media
+- **Original:** [Open original source](https://www.thestar.com.my/news/world/2026/05/11/a-french-passenger-from-hantavirus-hit-ship-has-tested-positive-for-the-virus)
+
 ## [Public health measures activated for two Singapore residents onboard MV Hondius](hondius-hantavirus-singapore-cda-2026-05-07.md)
 
 - **Publisher:** Singapore Communicable Diseases Agency
@@ -96,6 +114,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Publisher:** The Guardian
 - **Type:** media
 - **Original:** [Open original source](https://www.theguardian.com/world/2026/may/08/spanish-authorities-prepare-arrival-hantavirus-cruise-ship-hondius)
+
+## [Guardian - French positive case critical and Tenerife evacuation completion details](hondius-hantavirus-guardian-french-critical-evacuation-complete-2026-05-11.md)
+
+- **Publisher:** The Guardian
+- **Type:** media
+- **Original:** [Open original source](https://www.theguardian.com/world/2026/may/11/french-womandoctors-hantavirus-symptoms-hv-hondius)
 
 ## [Guardian report - Hondius evacuation from Tenerife](hondius-hantavirus-guardian-evacuation-2026-05-10.md)
 
@@ -133,6 +157,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** government
 - **Original:** [Open original source](https://www.gov.uk/government/news/ukhsa-update-on-the-hantavirus-cruise-ship-outbreak)
 
+## [UNMC/Nebraska Medicine - U.S. passengers arrive for quarantine and biocontainment monitoring](hondius-hantavirus-unmc-us-arrival-2026-05-11.md)
+
+- **Publisher:** University of Nebraska Medical Center
+- **Type:** health institution
+- **Original:** [Open original source](https://www.unmc.edu/newsroom/2026/05/11/cruise-ship-passengers-arrive-at-national-quarantine-unit/)
+
 ## [Hantavirus cluster linked to cruise ship travel, Multi-country](hondius-hantavirus-who-don599-2026-05-07.md)
 
 - **Publisher:** World Health Organization
@@ -150,6 +180,18 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Publisher:** World Health Organization
 - **Type:** WHO
 - **Original:** [Open original source](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600)
+
+## [WHO interim guidance - MV Hondius Andes virus contact management](hondius-hantavirus-who-contact-management-2026-05-10.md)
+
+- **Publisher:** World Health Organization
+- **Type:** WHO
+- **Original:** [Open original source](https://www.who.int/publications/m/item/management-of-contacts-of-andes-virus-%28andv%29-cases-fromthe-mv-hondius-cruise-ship)
+
+## [WHO technical note - MV Hondius disembarkation and onward management](hondius-hantavirus-who-disembarkation-technical-note-2026-05-10.md)
+
+- **Publisher:** World Health Organization
+- **Type:** WHO
+- **Original:** [Open original source](https://www.who.int/publications/m/item/who-technical-note-for-the-disembarkation-and-onward-management-of-passengers-and-crew-in-the-context-of-an-andes-virus-associated-cluster-mv-hondius-cruise-ship)
 
 ## [WHO's response to hantavirus cases linked to a cruise ship](hondius-hantavirus-who-europe-response-2026-05-08.md)
 
@@ -169,4 +211,4 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** media
 - **Original:** [Open original source](https://www.eldiario.es/sociedad/ultima-hora-brote-hantavirus-crucero-mv-hondius-directo_6_13208908.html)
 
-Last synced: 2026-05-11T08:32:47+10:00
+Last synced: 2026-05-12T08:33:13+10:00

@@ -9,7 +9,7 @@ This public site tracks the recent hantavirus outbreak linked to the expedition 
 
 ## Current Public Pages
 
-- [Latest daily report](reports/2026-05-11.md)
+- [Latest daily report](reports/2026-05-12.md)
 - [Full event timeline](timeline.md)
 - [Reports archive](reports/)
 - [Source references](sources/)
@@ -20,4 +20,4 @@ The private wiki is the source-of-truth workspace for search, ingestion, and syn
 
 Verified facts, disputed counts, and open questions are kept separate. Where official sources disagree, the contradiction is preserved rather than silently normalized.
 
-Last synced: 2026-05-11T08:32:47+10:00
+Last synced: 2026-05-12T08:33:13+10:00
