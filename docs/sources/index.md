@@ -121,6 +121,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** media
 - **Original:** [Open original source](https://www.theguardian.com/world/2026/may/11/french-womandoctors-hantavirus-symptoms-hv-hondius)
 
+## [Guardian / Reuters - WHO warns more cases possible and country follow-up tightens](hondius-hantavirus-guardian-who-more-cases-2026-05-12.md)
+
+- **Publisher:** The Guardian
+- **Type:** media
+- **Original:** [Open original source](https://www.theguardian.com/world/2026/may/12/who-head-warns-countries-prepare-more-hantavirus-cases)
+
 ## [Guardian report - Hondius evacuation from Tenerife](hondius-hantavirus-guardian-evacuation-2026-05-10.md)
 
 - **Publisher:** The Guardian
@@ -145,6 +151,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** government
 - **Original:** [Open original source](https://www.cdc.gov/media/releases/2026/2026-cdc-provides-update-on-hantavirus-outbreak-linked-to-m-v-hondius-cruise-ship.html)
 
+## [UKHSA blog - Hantavirus outbreak linked to Dutch cruise ship](hondius-hantavirus-ukhsa-blog-2026-05-12.md)
+
+- **Publisher:** UK Health Security Agency
+- **Type:** government
+- **Original:** [Open original source](https://ukhsa.blog.gov.uk/2026/05/12/what-you-need-to-know-about-the-hantavirus-outbreak-linked-to-the-dutch-cruise-ship/)
+
 ## [UKHSA update on the hantavirus cruise ship outbreak](hondius-hantavirus-ukhsa-update-2026-05-06-captured-2026-05-09.md)
 
 - **Publisher:** UK Health Security Agency / GOV.UK
@@ -163,11 +175,23 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** health institution
 - **Original:** [Open original source](https://www.unmc.edu/newsroom/2026/05/11/cruise-ship-passengers-arrive-at-national-quarantine-unit/)
 
+## [WA Health update - Australia and New Zealand repatriation support](hondius-hantavirus-wa-health-repatriation-2026-05-11.md)
+
+- **Publisher:** Western Australia Department of Health
+- **Type:** government
+- **Original:** [Open original source](https://www.health.wa.gov.au/Media-releases/2026/May/WA-Health-update-regarding-Hantavirus-situation)
+
 ## [Hantavirus cluster linked to cruise ship travel, Multi-country](hondius-hantavirus-who-don599-2026-05-07.md)
 
 - **Publisher:** World Health Organization
 - **Type:** WHO
 - **Original:** [Open original source](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599)
+
+## [WHO Director-General briefing - Hondius hantavirus operation update](hondius-hantavirus-who-dg-briefing-2026-05-12.md)
+
+- **Publisher:** World Health Organization
+- **Type:** WHO
+- **Original:** [Open original source](https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing-on-hantavirus---12-may-2026)
 
 ## [WHO Director-General message to Tenerife on Hondius response](hondius-hantavirus-who-dg-tenerife-message-2026-05-09.md)
 
@@ -211,4 +235,4 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** media
 - **Original:** [Open original source](https://www.eldiario.es/sociedad/ultima-hora-brote-hantavirus-crucero-mv-hondius-directo_6_13208908.html)
 
-Last synced: 2026-05-12T08:33:13+10:00
+Last synced: 2026-05-13T08:31:08+10:00
