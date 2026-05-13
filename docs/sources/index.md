@@ -31,6 +31,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** ECDC
 - **Original:** [Open original source](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated)
 
+## [ECDC press release - frontline support and genomics update](hondius-hantavirus-ecdc-frontline-genomics-2026-05-11.md)
+
+- **Publisher:** European Centre for Disease Prevention and Control
+- **Type:** ECDC
+- **Original:** [Open original source](https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-ecdc-continues-working-frontline-support-eu-member-states)
+
 ## [Hantavirus outbreak on cruise ship under investigation: risk for Europe very low](hondius-hantavirus-ecdc-update-2026-05-05.md)
 
 - **Publisher:** European Centre for Disease Prevention and Control
@@ -55,6 +61,18 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** government
 - **Original:** [Open original source](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/politica-territorial-memoria-democratica/paginas/2026/070526-reuniones-hantavirus-canarias.aspx)
 
+## [France follow-up - French positive in ICU and contact testing](hondius-hantavirus-france-followup-2026-05-13.md)
+
+- **Publisher:** Infobae / EFE
+- **Type:** media
+- **Original:** [Open original source](https://www.infobae.com/america/agencias/2026/05/13/sigue-en-cuidados-intensivos-la-francesa-infectada-por-hantavirus-del-crucero-mv-hondius/)
+
+## [Spain follow-up - Spanish positive stable and remaining passengers asymptomatic](hondius-hantavirus-spain-followup-2026-05-13.md)
+
+- **Publisher:** Infobae / EFE
+- **Type:** media
+- **Original:** [Open original source](https://www.infobae.com/america/agencias/2026/05/13/sanidad-informa-de-que-el-paciente-ingresado-por-hantavirus-continua-estable-y-el-resto-siguen-asintomaticos/)
+
 ## [Spanish island braces for arrival of Hantavirus cruise ship](hondius-hantavirus-lemonde-tenerife-operation-2026-05-09.md)
 
 - **Publisher:** Le Monde
@@ -66,6 +84,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Publisher:** Oceanwide Expeditions
 - **Type:** operator
 - **Original:** [Open original source](https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-9-may-2026-23-00-hrs-cet)
+
+## [Oceanwide Expeditions press update - m/v Hondius 2026-05-13 18:15 CET](hondius-hantavirus-oceanwide-update-2026-05-13-1815.md)
+
+- **Publisher:** Oceanwide Expeditions
+- **Type:** operator
+- **Original:** [Open original source](https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-13-may-2026-18-15-hrs-cet)
 
 ## [Press update | m/v Hondius: 4 May 2026, 23:30 CET](hondius-hantavirus-oceanwide-timeline-2026-05-04.md)
 
@@ -187,6 +211,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** WHO
 - **Original:** [Open original source](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599)
 
+## [WHO Director-General PBAC remarks - Hondius monitoring phase](hondius-hantavirus-who-pbac-remarks-2026-05-13.md)
+
+- **Publisher:** World Health Organization
+- **Type:** WHO
+- **Original:** [Open original source](https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-44th-meeting-of-the-programme--budget-and-administration-committee-of-the-executive-board---13-may-2026)
+
 ## [WHO Director-General briefing - Hondius hantavirus operation update](hondius-hantavirus-who-dg-briefing-2026-05-12.md)
 
 - **Publisher:** World Health Organization
@@ -235,4 +265,4 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** media
 - **Original:** [Open original source](https://www.eldiario.es/sociedad/ultima-hora-brote-hantavirus-crucero-mv-hondius-directo_6_13208908.html)
 
-Last synced: 2026-05-13T08:31:08+10:00
+Last synced: 2026-05-14T08:31:53+10:00
