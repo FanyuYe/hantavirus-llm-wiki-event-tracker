@@ -7,11 +7,23 @@ layout: default
 
 These are public source cards for the Hondius hantavirus event tracker. They are citation aids, not full raw captures.
 
+## [AP - U.S. passenger cleared from Nebraska biocontainment unit](hondius-hantavirus-ap-us-inconclusive-cleared-nebraska-2026-05-13.md)
+
+- **Publisher:** Associated Press
+- **Type:** media
+- **Original:** [Open original source](https://apnews.com/article/hantavirus-hondius-cruise-ship-doctor-nebraska-isolation-72daa0e1ff672c8c22b6851f4c5e3cad)
+
 ## [El Pais - Initial sequencing of MV Hondius Andes virus sample](hondius-hantavirus-elpais-genetic-sequencing-2026-05-11.md)
 
 - **Publisher:** El Pais
 - **Type:** media
 - **Original:** [Open original source](https://elpais.com/ciencia/2026-05-11/un-primer-analisis-genetico-del-hantavirus-del-crucero-confirma-que-es-de-la-variante-andes-y-descarta-mutaciones.html)
+
+## [Spain follow-up - Gomez Ulla quarantine and Spanish case improvement](hondius-hantavirus-spain-followup-2026-05-14.md)
+
+- **Publisher:** El Pais
+- **Type:** media
+- **Original:** [Open original source](https://elpais.com/sociedad/2026-05-14/los-cuarentenados-por-hantavirus-podran-recibir-visitas-el-lunes-si-dan-negativo-en-la-pcr.html?ssm=FB_CM)
 
 ## [Andes Hantavirus outbreak in cruise ship, May 2026](hondius-hantavirus-ecdc-dashboard-2026-05-07.md)
 
@@ -31,6 +43,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** ECDC
 - **Original:** [Open original source](https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated)
 
+## [ECDC dashboard - Andes hantavirus outbreak in cruise ship, 14 May 2026](hondius-hantavirus-ecdc-dashboard-2026-05-14.md)
+
+- **Publisher:** European Centre for Disease Prevention and Control
+- **Type:** ECDC
+- **Original:** [Open original source](https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak?block_config_key=standard%3AiQFxvniEb_5gPoZbSjuAy1Z38YAJ5GIBZE8u1X-LcqU&page=1&tid%5B0%5D%5Btarget_id%5D=3283&tid_op=or&type%5B1244%5D=1244&type%5B1307%5D=1307&type_op=or)
+
 ## [ECDC press release - frontline support and genomics update](hondius-hantavirus-ecdc-frontline-genomics-2026-05-11.md)
 
 - **Publisher:** European Centre for Disease Prevention and Control
@@ -48,6 +66,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Publisher:** European Centre for Disease Prevention and Control
 - **Type:** ECDC
 - **Original:** [Open original source](https://www.ecdc.europa.eu/en/publications-data/hantavirus-associated-cluster-illness-cruise-ship-ecdc-assessment-and)
+
+## [European Commission - Health Security Committee hantavirus coordination overview](hondius-hantavirus-european-commission-hsc-2026-05-13.md)
+
+- **Publisher:** European Commission
+- **Type:** government
+- **Original:** [Open original source](https://health.ec.europa.eu/health-security-and-infectious-diseases/crisis-management/hantavirus-outbreak_en)
 
 ## [Spain media reports - provisional positive among Gomez Ulla quarantine group](hondius-hantavirus-spain-provisional-positive-2026-05-11.md)
 
@@ -175,6 +199,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** government
 - **Original:** [Open original source](https://www.cdc.gov/media/releases/2026/2026-cdc-provides-update-on-hantavirus-outbreak-linked-to-m-v-hondius-cruise-ship.html)
 
+## [CDC transcript - update on CDC's hantavirus response](hondius-hantavirus-cdc-transcript-2026-05-13.md)
+
+- **Publisher:** U.S. Centers for Disease Control and Prevention
+- **Type:** government
+- **Original:** [Open original source](https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-hantavirus-response.html)
+
 ## [UKHSA blog - Hantavirus outbreak linked to Dutch cruise ship](hondius-hantavirus-ukhsa-blog-2026-05-12.md)
 
 - **Publisher:** UK Health Security Agency
@@ -235,6 +265,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** WHO
 - **Original:** [Open original source](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600)
 
+## [WHO Disease Outbreak News DON601 - Hondius hantavirus cluster](hondius-hantavirus-who-don601-2026-05-13.md)
+
+- **Publisher:** World Health Organization
+- **Type:** WHO
+- **Original:** [Open original source](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON601)
+
 ## [WHO interim guidance - MV Hondius Andes virus contact management](hondius-hantavirus-who-contact-management-2026-05-10.md)
 
 - **Publisher:** World Health Organization
@@ -265,4 +301,4 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** media
 - **Original:** [Open original source](https://www.eldiario.es/sociedad/ultima-hora-brote-hantavirus-crucero-mv-hondius-directo_6_13208908.html)
 
-Last synced: 2026-05-14T08:31:53+10:00
+Last synced: 2026-05-15T08:32:30+10:00
