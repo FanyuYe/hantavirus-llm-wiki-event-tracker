@@ -19,7 +19,11 @@ World Health Organization source card supporting the Hondius hantavirus timeline
 
 ## Key Claims Used
 
-- This source supports the cited Hondius hantavirus timeline or daily-report entry.
+- WHO said one week earlier it had supported Spanish authorities to disembark passengers and crew from MV Hondius in Tenerife after a cluster of Andes hantavirus infections.
+- WHO's 2026-05-15 briefing gave the current count as 10 confirmed and probable cases and 3 deaths.
+- WHO said affected travellers are now isolated and closely monitored in six countries.
+- WHO said the virus can pass from person to person only with close or prolonged contact, and that it poses a low risk to the wider population.
+- WHO continued to recommend prompt isolation and immediate clinical care for any exposed person who develops symptoms.
 
 ## Citation Notes
 

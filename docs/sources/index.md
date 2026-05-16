@@ -235,12 +235,6 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** government
 - **Original:** [Open original source](https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-hantavirus-response.html)
 
-## [UKHSA OUM - rare infections in the UK](hondius-hantavirus-ukhsa-rare-infection-briefing-2026-05-14.md)
-
-- **Publisher:** UK Health Security Agency
-- **Type:** government
-- **Original:** [Open original source](https://ukhsa-newsroom.prgloo.com/news/ukhsa-oum-rare-infections-in-the-uk)
-
 ## [UKHSA blog - Hantavirus outbreak linked to Dutch cruise ship](hondius-hantavirus-ukhsa-blog-2026-05-12.md)
 
 - **Publisher:** UK Health Security Agency
@@ -258,6 +252,12 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Publisher:** UK Health Security Agency / GOV.UK
 - **Type:** government
 - **Original:** [Open original source](https://www.gov.uk/government/news/ukhsa-update-on-the-hantavirus-cruise-ship-outbreak)
+
+## [UK Parliament written statement - MV Hondius hantavirus response](hondius-hantavirus-uk-parliament-statement-2026-05-14.md)
+
+- **Publisher:** UK Parliament
+- **Type:** government
+- **Original:** [Open original source](https://questions-statements.parliament.uk/written-statements/detail/2026-05-14/hcws1573)
 
 ## [UNMC/Nebraska Medicine - U.S. passengers arrive for quarantine and biocontainment monitoring](hondius-hantavirus-unmc-us-arrival-2026-05-11.md)
 
@@ -343,4 +343,4 @@ These are public source cards for the Hondius hantavirus event tracker. They are
 - **Type:** media
 - **Original:** [Open original source](https://www.eldiario.es/sociedad/ultima-hora-brote-hantavirus-crucero-mv-hondius-directo_6_13208908.html)
 
-Last synced: 2026-05-16T09:45:05+10:00
+Last synced: 2026-05-16T10:43:34+10:00

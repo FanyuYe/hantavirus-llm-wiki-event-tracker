@@ -20,4 +20,4 @@ The private wiki is the source-of-truth workspace for search, ingestion, and syn
 
 Verified facts, disputed counts, and open questions are kept separate. Where official sources disagree, the contradiction is preserved rather than silently normalized.
 
-Last synced: 2026-05-16T09:45:05+10:00
+Last synced: 2026-05-16T10:43:34+10:00

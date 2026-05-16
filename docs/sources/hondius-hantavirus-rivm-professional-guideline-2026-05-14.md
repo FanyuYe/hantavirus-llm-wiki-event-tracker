@@ -19,7 +19,9 @@ National Institute for Public Health and the Environment (RIVM) source card supp
 
 ## Key Claims Used
 
-- This source supports the cited Hondius hantavirus timeline or daily-report entry.
+- RIVM's professional guideline describes hantavirus infection guidance for public-health professionals in the Netherlands.
+- The guideline includes Andes virus in the broader hantavirus clinical/public-health context.
+- It is relevant because MV Hondius was expected to arrive in the Netherlands on 2026-05-17 or 2026-05-18 and because earlier operator updates said RIVM-provided medical staff were onboard.
 
 ## Citation Notes
 

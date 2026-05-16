@@ -19,7 +19,12 @@ European Centre for Disease Prevention and Control source card supporting the Ho
 
 ## Key Claims Used
 
-- This source supports the cited Hondius hantavirus timeline or daily-report entry.
+- ECDC's 2026-05-15 dashboard continued to list 11 cases, including 8 confirmed cases, 2 probable cases, 1 inconclusive case, and 3 deaths.
+- ECDC said no new cases or deaths had been reported since the previous update.
+- ECDC assessed the risk to the EU/EEA general population as very low.
+- ECDC said public health measures had been implemented and were coordinated by national and local public health authorities with support from ECDC, WHO, the European Commission, Spain, and other countries.
+- ECDC said disembarkation of passengers and part of the crew was completed on 2026-05-11 and that repatriation of all passengers and crew members to their countries was completed.
+- ECDC said MV Hondius was scheduled to arrive in the Netherlands on 2026-05-17 or 2026-05-18.
 
 ## Citation Notes
 

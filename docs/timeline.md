@@ -22,7 +22,7 @@ The core unresolved question is how exposure occurred. WHO says the working hypo
 | 2026-05-15               | ECDC published infection prevention/control advice for health authorities managing infected, suspected, or exposed persons, confirming that the response had shifted into technical national follow-up rather than a passenger-evacuation operation. | [ECDC IPC advice](sources/hondius-hantavirus-ecdc-ipc-advice-2026-05-15.md) |
 | 2026-05-15               | AP reported that five Australians and one New Zealander arrived in Australia for quarantine expected to last at least three weeks at Bullsbrook after repatriation; no symptoms and no community risk were reported. | [AP Australia quarantine](sources/hondius-hantavirus-ap-australia-quarantine-2026-05-15.md) |
 | 2026-05-14               | ECDC published advice on laboratory testing for Andes virus high-risk contacts under MV Hondius follow-up, reinforcing the surveillance/testing layer after disembarkation. | [ECDC lab advice](sources/hondius-hantavirus-ecdc-lab-testing-advice-2026-05-14.md) |
-| 2026-05-14               | UKHSA's rare-infection update said British passengers and crew continued isolation and testing, with no additional UK cases identified in that update. | [UKHSA 2026-05-14](sources/hondius-hantavirus-ukhsa-rare-infection-briefing-2026-05-14.md) |
+| 2026-05-14               | A UK Parliament written statement recorded the UK reception/testing pathway for 20 British nationals plus two non-British passengers, and said UKHSA continued to work with public-health teams in UK Overseas Territories on high-risk-contact management. | [UK Parliament 2026-05-14](sources/hondius-hantavirus-uk-parliament-statement-2026-05-14.md) |
 | 2026-05-14               | ECDC's daily dashboard aligned with WHO DON601: 11 total cases, including 8 confirmed, 2 probable, 1 inconclusive, and 3 deaths; no new cases or deaths had been reported since the previous update. ECDC also said passenger/part-crew disembarkation was completed on 2026-05-11, all passenger and crew repatriation was completed, and the ship was scheduled to arrive in the Netherlands on 2026-05-17 or 2026-05-18. | [ECDC 2026-05-14](sources/hondius-hantavirus-ecdc-dashboard-2026-05-14.md) |
 | 2026-05-14               | Spain-side follow-up reported that the 13 Spanish passengers quarantined at Gomez Ulla remained asymptomatic and could receive more room/common-area/visitor flexibility after a negative Monday PCR, while the Spanish positive patient remained isolated with mild symptoms but had improved. | [Spain follow-up 2026-05-14](sources/hondius-hantavirus-spain-followup-2026-05-14.md) |
 | 2026-05-13               | WHO DON601 preserved the 11-case, 3-death total but changed the strongest public classification to 8 confirmed Andes virus infections, 2 probable cases, and 1 inconclusive U.S. case undergoing retesting. WHO said the added post-DON600 cases were one confirmed French case, one confirmed Spanish case, and the inconclusive U.S. case. | [WHO DON601](sources/hondius-hantavirus-who-don601-2026-05-13.md) |
@@ -142,7 +142,7 @@ Source cards used by this page:
 - [hondius-hantavirus-ukhsa-update-2026-05-06-captured-2026-05-09](sources/hondius-hantavirus-ukhsa-update-2026-05-06-captured-2026-05-09.md)
 - [hondius-hantavirus-ukhsa-update-2026-05-09](sources/hondius-hantavirus-ukhsa-update-2026-05-09.md)
 - [hondius-hantavirus-ukhsa-blog-2026-05-12](sources/hondius-hantavirus-ukhsa-blog-2026-05-12.md)
-- [hondius-hantavirus-ukhsa-rare-infection-briefing-2026-05-14](sources/hondius-hantavirus-ukhsa-rare-infection-briefing-2026-05-14.md)
+- [hondius-hantavirus-uk-parliament-statement-2026-05-14](sources/hondius-hantavirus-uk-parliament-statement-2026-05-14.md)
 - [hondius-hantavirus-cdc-update-2026-05-08](sources/hondius-hantavirus-cdc-update-2026-05-08.md)
 - [hondius-hantavirus-cdc-transcript-2026-05-13](sources/hondius-hantavirus-cdc-transcript-2026-05-13.md)
 - [hondius-hantavirus-ap-us-inconclusive-cleared-nebraska-2026-05-13](sources/hondius-hantavirus-ap-us-inconclusive-cleared-nebraska-2026-05-13.md)
@@ -164,4 +164,4 @@ Source cards used by this page:
 - [hondius-hantavirus-eldiario-live-2026-05-10](sources/hondius-hantavirus-eldiario-live-2026-05-10.md)
 - [hondius-hantavirus-elpais-genetic-sequencing-2026-05-11](sources/hondius-hantavirus-elpais-genetic-sequencing-2026-05-11.md)
 
-Last synced: 2026-05-16T09:45:05+10:00
+Last synced: 2026-05-16T10:43:34+10:00

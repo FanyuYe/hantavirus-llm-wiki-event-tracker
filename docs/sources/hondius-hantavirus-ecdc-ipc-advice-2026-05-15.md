@@ -19,7 +19,9 @@ European Centre for Disease Prevention and Control source card supporting the Ho
 
 ## Key Claims Used
 
-- This source supports the cited Hondius hantavirus timeline or daily-report entry.
+- ECDC published infection prevention and control advice for health authorities handling persons infected with, suspected of, or exposed to Andes virus in the MV Hondius context.
+- The guidance is linked from the 2026-05-15 ECDC event dashboard.
+- It supports the continuing operational focus on controlled isolation, monitoring, testing, and healthcare infection-prevention precautions.
 
 ## Citation Notes
 

@@ -19,7 +19,10 @@ European Centre for Disease Prevention and Control source card supporting the Ho
 
 ## Key Claims Used
 
-- This source supports the cited Hondius hantavirus timeline or daily-report entry.
+- ECDC published advice on laboratory testing of Andes virus high-risk contacts under follow-up in the MV Hondius investigation.
+- The advice is intended for public-health and laboratory professionals managing exposed contacts.
+- The guidance supports a symptom-aware testing and follow-up posture rather than public testing of the general population.
+- ECDC linked the advice from the event dashboard as one of the latest technical guidance documents.
 
 ## Citation Notes
 

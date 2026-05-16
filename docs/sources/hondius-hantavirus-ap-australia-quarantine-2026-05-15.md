@@ -19,7 +19,10 @@ Associated Press source card supporting the Hondius hantavirus timeline and dail
 
 ## Key Claims Used
 
-- This source supports the cited Hondius hantavirus timeline or daily-report entry.
+- AP reported that five Australians and one New Zealander from MV Hondius arrived in Australia for quarantine expected to last at least three weeks at Bullsbrook, northeast of Perth.
+- AP said one of the Australians was onboard MV Hondius when the outbreak occurred, while the others had disembarked earlier but were being quarantined because of possible exposure.
+- AP reported there were no symptoms among the Australia/New Zealand group and no risk to the community.
+- AP quoted Australian health officials warning symptoms could still appear during the quarantine period.
 
 ## Citation Notes
 
