@@ -7,9 +7,9 @@ layout: default
 
 ## Current Snapshot
 
-As of the latest verified source review captured on 2026-05-15 AEST, the outbreak is linked to the Dutch-flagged expedition vessel _m/v Hondius_ after a South Atlantic itinerary that departed Ushuaia, Argentina, on 2026-04-01. The current strongest official global case-count baseline is WHO DON601, now matched by ECDC's 2026-05-14 dashboard: 11 total cases, including 3 deaths, all among MV Hondius passengers; 8 cases are laboratory-confirmed Andes virus infections, 2 are probable, and 1 U.S. case remains inconclusive pending further testing. This supersedes both WHO DON600's 2026-05-08 baseline of 8 cases and the 2026-05-12 briefing shorthand of 9 confirmed plus 2 probable. [WHO DON601](sources/hondius-hantavirus-who-don601-2026-05-13.md) [ECDC 2026-05-14](sources/hondius-hantavirus-ecdc-dashboard-2026-05-14.md)
+As of the latest verified source review captured on 2026-05-16 AEST, the outbreak is linked to the Dutch-flagged expedition vessel _m/v Hondius_ after a South Atlantic itinerary that departed Ushuaia, Argentina, on 2026-04-01. The current safest case-count wording is 10 confirmed/probable cases, 1 inconclusive case, and 3 deaths. ECDC's 2026-05-15 dashboard still lists 11 total cases, including 8 confirmed, 2 probable, 1 inconclusive, and 3 deaths, with no new cases or deaths since the previous update. WHO's 2026-05-15 briefing summarizes the event as 10 confirmed and probable cases with 3 deaths, apparently excluding the inconclusive U.S. case from that denominator. [ECDC 2026-05-15](sources/hondius-hantavirus-ecdc-dashboard-2026-05-15.md) [WHO briefing 2026-05-15](sources/hondius-hantavirus-who-dg-briefing-2026-05-15.md)
 
-By 2026-05-14, the operational endpoint had sharpened. WHO said the passengers had all been repatriated, the quarantine/monitoring period runs to 2026-06-21, and the ship was sailing to the Netherlands with the crew. ECDC said disembarkation of passengers and part of the crew was completed on 2026-05-11, repatriation of all passengers and crew members to their countries was completed, and MV Hondius was scheduled to arrive in the Netherlands on 2026-05-17 or 2026-05-18. Oceanwide's 2026-05-13 update expected Rotterdam arrival on 2026-05-18 for staggered crew disembarkation, quarantine under Dutch/RIVM procedures, and cleaning/disinfection coordinated with GGD Rotterdam and RIVM. [WHO PBAC remarks](sources/hondius-hantavirus-who-pbac-remarks-2026-05-13.md) [ECDC 2026-05-14](sources/hondius-hantavirus-ecdc-dashboard-2026-05-14.md) [Oceanwide 2026-05-13](sources/hondius-hantavirus-oceanwide-update-2026-05-13-1815.md)
+By 2026-05-15, the operational endpoint remained unchanged but more clearly technical. WHO said affected travellers were isolated and monitored in six countries. ECDC said disembarkation and repatriation were completed, the ship was still scheduled to arrive in the Netherlands on 2026-05-17 or 2026-05-18, and ECDC had published follow-up laboratory-testing and infection-prevention guidance for health authorities. Oceanwide's last captured operator update still expected Rotterdam arrival on 2026-05-18 for staggered crew disembarkation, quarantine under Dutch/RIVM procedures, and cleaning/disinfection coordinated with GGD Rotterdam and RIVM. [WHO briefing 2026-05-15](sources/hondius-hantavirus-who-dg-briefing-2026-05-15.md) [ECDC 2026-05-15](sources/hondius-hantavirus-ecdc-dashboard-2026-05-15.md) [ECDC lab advice](sources/hondius-hantavirus-ecdc-lab-testing-advice-2026-05-14.md) [ECDC IPC advice](sources/hondius-hantavirus-ecdc-ipc-advice-2026-05-15.md) [Oceanwide 2026-05-13](sources/hondius-hantavirus-oceanwide-update-2026-05-13-1815.md)
 
 The core unresolved question is how exposure occurred. WHO says the working hypothesis is that case 1 most probably acquired infection before boarding through environmental exposure during activities in Argentina and Chile, while current evidence points to subsequent human-to-human transmission onboard. ECDC and the European Commission now provide an official European genomics interpretation: sequencing strongly suggests cases stem from the same very recent zoonotic spillover event, the virus resembles Andes viruses already known in South America, it is not a new variant, and there is no evidence that it spreads more easily or causes more severe disease than other Andes viruses. The operational focus remains distributed national quarantine, testing, clinical monitoring, and country reporting through the International Health Regulations channel. [WHO DON601](sources/hondius-hantavirus-who-don601-2026-05-13.md) [WHO contact management](sources/hondius-hantavirus-who-contact-management-2026-05-10.md) [ECDC genomics](sources/hondius-hantavirus-ecdc-frontline-genomics-2026-05-11.md) [European Commission HSC](sources/hondius-hantavirus-european-commission-hsc-2026-05-13.md)
 
@@ -17,6 +17,12 @@ The core unresolved question is how exposure occurred. WHO says the working hypo
 
 | Date                     | Development                                                                                                                                                                                                                                                                                                                                                                                             | Source                                                                                                                                                          |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026-05-15               | WHO's Director-General briefing summarized the event as 10 confirmed and probable cases with 3 deaths, said affected travellers were isolated and monitored in six countries, and repeated that wider-population risk is low because person-to-person spread requires close or prolonged contact. | [WHO briefing 2026-05-15](sources/hondius-hantavirus-who-dg-briefing-2026-05-15.md) |
+| 2026-05-15               | ECDC's updated dashboard remained stable: 11 total cases, 8 confirmed, 2 probable, 1 inconclusive, and 3 deaths, with no new cases or deaths since the previous update; ECDC still listed MV Hondius' Netherlands arrival window as 2026-05-17 or 2026-05-18. | [ECDC 2026-05-15](sources/hondius-hantavirus-ecdc-dashboard-2026-05-15.md) |
+| 2026-05-15               | ECDC published infection prevention/control advice for health authorities managing infected, suspected, or exposed persons, confirming that the response had shifted into technical national follow-up rather than a passenger-evacuation operation. | [ECDC IPC advice](sources/hondius-hantavirus-ecdc-ipc-advice-2026-05-15.md) |
+| 2026-05-15               | AP reported that five Australians and one New Zealander arrived in Australia for quarantine expected to last at least three weeks at Bullsbrook after repatriation; no symptoms and no community risk were reported. | [AP Australia quarantine](sources/hondius-hantavirus-ap-australia-quarantine-2026-05-15.md) |
+| 2026-05-14               | ECDC published advice on laboratory testing for Andes virus high-risk contacts under MV Hondius follow-up, reinforcing the surveillance/testing layer after disembarkation. | [ECDC lab advice](sources/hondius-hantavirus-ecdc-lab-testing-advice-2026-05-14.md) |
+| 2026-05-14               | UKHSA's rare-infection update said British passengers and crew continued isolation and testing, with no additional UK cases identified in that update. | [UKHSA 2026-05-14](sources/hondius-hantavirus-ukhsa-rare-infection-briefing-2026-05-14.md) |
 | 2026-05-14               | ECDC's daily dashboard aligned with WHO DON601: 11 total cases, including 8 confirmed, 2 probable, 1 inconclusive, and 3 deaths; no new cases or deaths had been reported since the previous update. ECDC also said passenger/part-crew disembarkation was completed on 2026-05-11, all passenger and crew repatriation was completed, and the ship was scheduled to arrive in the Netherlands on 2026-05-17 or 2026-05-18. | [ECDC 2026-05-14](sources/hondius-hantavirus-ecdc-dashboard-2026-05-14.md) |
 | 2026-05-14               | Spain-side follow-up reported that the 13 Spanish passengers quarantined at Gomez Ulla remained asymptomatic and could receive more room/common-area/visitor flexibility after a negative Monday PCR, while the Spanish positive patient remained isolated with mild symptoms but had improved. | [Spain follow-up 2026-05-14](sources/hondius-hantavirus-spain-followup-2026-05-14.md) |
 | 2026-05-13               | WHO DON601 preserved the 11-case, 3-death total but changed the strongest public classification to 8 confirmed Andes virus infections, 2 probable cases, and 1 inconclusive U.S. case undergoing retesting. WHO said the added post-DON600 cases were one confirmed French case, one confirmed Spanish case, and the inconclusive U.S. case. | [WHO DON601](sources/hondius-hantavirus-who-don601-2026-05-13.md) |
@@ -78,9 +84,9 @@ The main control strategy visible in the official record is coordinated case car
 ## Open Questions
 
 - Exact exposure source: WHO's working hypothesis points to pre-boarding environmental exposure in Argentina/Chile for case 1 followed by onboard human-to-human transmission; ECDC sequencing supports a shared original source among tested confirmed passenger samples, but final transmission-chain reconstruction remains ongoing.
-- Case identity reconciliation: WHO and ECDC now classify the 11 cases as 8 confirmed, 2 probable, and 1 inconclusive; the remaining watch item is whether the U.S. inconclusive case is later confirmed or ruled out.
+- Case identity reconciliation: WHO's latest briefing says 10 confirmed/probable cases while ECDC still lists 11 total cases including 1 inconclusive; the remaining watch item is whether the U.S. inconclusive case is later confirmed or ruled out.
 - Passenger and crew follow-up outcomes: repatriation, quarantine, testing, and any later cases after the Canary Islands arrival need daily monitoring, especially the French serious ICU case, the U.S. asymptomatic positive, and the Spanish confirmed positive.
-- Ship/crew endpoint: ECDC lists Netherlands arrival as 2026-05-17 or 2026-05-18, while Oceanwide expects Rotterdam arrival on 2026-05-18; final arrival, crew quarantine details, ship sanitation/disinfection protocol, and official clearance for future sailing remain open.
+- Ship/crew endpoint: ECDC still lists Netherlands arrival as 2026-05-17 or 2026-05-18, while Oceanwide expects Rotterdam arrival on 2026-05-18; final arrival, crew quarantine details, ship sanitation/disinfection protocol, and official clearance for future sailing remain open.
 - Clinical outcomes: latest official sources do not yet resolve the outcomes of the ICU patient in South Africa, the Switzerland case, or the three medically transferred people.
 
 ## Related Pages
@@ -93,6 +99,7 @@ The main control strategy visible in the official record is coordinated case car
 - [Daily report 2026-05-13](reports/2026-05-13.md)
 - [Daily report 2026-05-14](reports/2026-05-14.md)
 - [Daily report 2026-05-15](reports/2026-05-15.md)
+- [Daily report 2026-05-16](reports/2026-05-16.md)
 
 ## Public Provenance
 
@@ -110,13 +117,17 @@ Source cards used by this page:
 - [hondius-hantavirus-who-dg-briefing-2026-05-12](sources/hondius-hantavirus-who-dg-briefing-2026-05-12.md)
 - [hondius-hantavirus-who-pbac-remarks-2026-05-13](sources/hondius-hantavirus-who-pbac-remarks-2026-05-13.md)
 - [hondius-hantavirus-who-don601-2026-05-13](sources/hondius-hantavirus-who-don601-2026-05-13.md)
+- [hondius-hantavirus-who-dg-briefing-2026-05-15](sources/hondius-hantavirus-who-dg-briefing-2026-05-15.md)
 - [hondius-hantavirus-ecdc-assessment-2026-05-06](sources/hondius-hantavirus-ecdc-assessment-2026-05-06.md)
 - [hondius-hantavirus-ecdc-dashboard-2026-05-07](sources/hondius-hantavirus-ecdc-dashboard-2026-05-07.md)
 - [hondius-hantavirus-ecdc-dashboard-2026-05-08](sources/hondius-hantavirus-ecdc-dashboard-2026-05-08.md)
 - [hondius-hantavirus-ecdc-dashboard-2026-05-14](sources/hondius-hantavirus-ecdc-dashboard-2026-05-14.md)
+- [hondius-hantavirus-ecdc-dashboard-2026-05-15](sources/hondius-hantavirus-ecdc-dashboard-2026-05-15.md)
 - [hondius-hantavirus-ecdc-response-activated-2026-05-06](sources/hondius-hantavirus-ecdc-response-activated-2026-05-06.md)
 - [hondius-hantavirus-ecdc-update-2026-05-05](sources/hondius-hantavirus-ecdc-update-2026-05-05.md)
 - [hondius-hantavirus-ecdc-frontline-genomics-2026-05-11](sources/hondius-hantavirus-ecdc-frontline-genomics-2026-05-11.md)
+- [hondius-hantavirus-ecdc-lab-testing-advice-2026-05-14](sources/hondius-hantavirus-ecdc-lab-testing-advice-2026-05-14.md)
+- [hondius-hantavirus-ecdc-ipc-advice-2026-05-15](sources/hondius-hantavirus-ecdc-ipc-advice-2026-05-15.md)
 - [hondius-hantavirus-oceanwide-timeline-2026-05-04](sources/hondius-hantavirus-oceanwide-timeline-2026-05-04.md)
 - [hondius-hantavirus-oceanwide-update-2026-05-06-1445](sources/hondius-hantavirus-oceanwide-update-2026-05-06-1445.md)
 - [hondius-hantavirus-oceanwide-update-2026-05-07-1715](sources/hondius-hantavirus-oceanwide-update-2026-05-07-1715.md)
@@ -131,12 +142,15 @@ Source cards used by this page:
 - [hondius-hantavirus-ukhsa-update-2026-05-06-captured-2026-05-09](sources/hondius-hantavirus-ukhsa-update-2026-05-06-captured-2026-05-09.md)
 - [hondius-hantavirus-ukhsa-update-2026-05-09](sources/hondius-hantavirus-ukhsa-update-2026-05-09.md)
 - [hondius-hantavirus-ukhsa-blog-2026-05-12](sources/hondius-hantavirus-ukhsa-blog-2026-05-12.md)
+- [hondius-hantavirus-ukhsa-rare-infection-briefing-2026-05-14](sources/hondius-hantavirus-ukhsa-rare-infection-briefing-2026-05-14.md)
 - [hondius-hantavirus-cdc-update-2026-05-08](sources/hondius-hantavirus-cdc-update-2026-05-08.md)
 - [hondius-hantavirus-cdc-transcript-2026-05-13](sources/hondius-hantavirus-cdc-transcript-2026-05-13.md)
 - [hondius-hantavirus-ap-us-inconclusive-cleared-nebraska-2026-05-13](sources/hondius-hantavirus-ap-us-inconclusive-cleared-nebraska-2026-05-13.md)
 - [hondius-hantavirus-unmc-us-arrival-2026-05-11](sources/hondius-hantavirus-unmc-us-arrival-2026-05-11.md)
 - [hondius-hantavirus-wa-health-repatriation-2026-05-11](sources/hondius-hantavirus-wa-health-repatriation-2026-05-11.md)
+- [hondius-hantavirus-ap-australia-quarantine-2026-05-15](sources/hondius-hantavirus-ap-australia-quarantine-2026-05-15.md)
 - [hondius-hantavirus-european-commission-hsc-2026-05-13](sources/hondius-hantavirus-european-commission-hsc-2026-05-13.md)
+- [hondius-hantavirus-rivm-professional-guideline-2026-05-14](sources/hondius-hantavirus-rivm-professional-guideline-2026-05-14.md)
 - [hondius-hantavirus-singapore-cda-2026-05-07](sources/hondius-hantavirus-singapore-cda-2026-05-07.md)
 - [hondius-hantavirus-st-helena-update-2026-05-07](sources/hondius-hantavirus-st-helena-update-2026-05-07.md)
 - [hondius-hantavirus-guardian-third-briton-2026-05-08](sources/hondius-hantavirus-guardian-third-briton-2026-05-08.md)
@@ -150,4 +164,4 @@ Source cards used by this page:
 - [hondius-hantavirus-eldiario-live-2026-05-10](sources/hondius-hantavirus-eldiario-live-2026-05-10.md)
 - [hondius-hantavirus-elpais-genetic-sequencing-2026-05-11](sources/hondius-hantavirus-elpais-genetic-sequencing-2026-05-11.md)
 
-Last synced: 2026-05-15T08:32:30+10:00
+Last synced: 2026-05-16T09:45:05+10:00
